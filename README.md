@@ -1,3 +1,3 @@
 # skype_demo
-starting my first Repository.
+starting my first Git Repository.
 Author - Parkhi
